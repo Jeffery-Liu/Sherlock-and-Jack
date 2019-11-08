@@ -1,0 +1,224 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="CharacterFall.h">
+      <Filter>States\C1_Thief</Filter>
+    </ClInclude>
+    <ClInclude Include="CharacterIdle.h">
+      <Filter>States\C1_Thief</Filter>
+    </ClInclude>
+    <ClInclude Include="CharacterJump.h">
+      <Filter>States\C1_Thief</Filter>
+    </ClInclude>
+    <ClInclude Include="CharacterState.h">
+      <Filter>States\C1_Thief</Filter>
+    </ClInclude>
+    <ClInclude Include="CharacterWalk.h">
+      <Filter>States\C1_Thief</Filter>
+    </ClInclude>
+    <ClInclude Include="BaseState.h">
+      <Filter>States\Data</Filter>
+    </ClInclude>
+    <ClInclude Include="Character.h">
+      <Filter>States\C1_Thief</Filter>
+    </ClInclude>
+    <ClInclude Include="Character2.h">
+      <Filter>States\C2_Cop</Filter>
+    </ClInclude>
+    <ClInclude Include="CharacterFall2.h">
+      <Filter>States\C2_Cop</Filter>
+    </ClInclude>
+    <ClInclude Include="CharacterIdle2.h">
+      <Filter>States\C2_Cop</Filter>
+    </ClInclude>
+    <ClInclude Include="CharacterJump2.h">
+      <Filter>States\C2_Cop</Filter>
+    </ClInclude>
+    <ClInclude Include="CharacterState2.h">
+      <Filter>States\C2_Cop</Filter>
+    </ClInclude>
+    <ClInclude Include="CharacterWalk2.h">
+      <Filter>States\C2_Cop</Filter>
+    </ClInclude>
+    <ClInclude Include="counter.h">
+      <Filter>States\Data</Filter>
+    </ClInclude>
+    <ClInclude Include="Map.h">
+      <Filter>States\Data</Filter>
+    </ClInclude>
+    <ClInclude Include="Tile.h">
+      <Filter>States\Data</Filter>
+    </ClInclude>
+    <ClInclude Include="FrontendState.h">
+      <Filter>States\GameStates</Filter>
+    </ClInclude>
+    <ClInclude Include="GameContext.h">
+      <Filter>States\GameStates</Filter>
+    </ClInclude>
+    <ClInclude Include="GameStates.h">
+      <Filter>States\GameStates</Filter>
+    </ClInclude>
+    <ClInclude Include="GameplayState.h">
+      <Filter>States\GameStates</Filter>
+    </ClInclude>
+    <ClInclude Include="CopLose.h">
+      <Filter>States\GameStates</Filter>
+    </ClInclude>
+    <ClInclude Include="CopWin.h">
+      <Filter>States\GameStates</Filter>
+    </ClInclude>
+    <ClInclude Include="Character3.h">
+      <Filter>States\C3_Cop</Filter>
+    </ClInclude>
+    <ClInclude Include="CharacterFall3.h">
+      <Filter>States\C3_Cop</Filter>
+    </ClInclude>
+    <ClInclude Include="CharacterIdle3.h">
+      <Filter>States\C3_Cop</Filter>
+    </ClInclude>
+    <ClInclude Include="CharacterJump3.h">
+      <Filter>States\C3_Cop</Filter>
+    </ClInclude>
+    <ClInclude Include="CharacterState3.h">
+      <Filter>States\C3_Cop</Filter>
+    </ClInclude>
+    <ClInclude Include="CharacterWalk3.h">
+      <Filter>States\C3_Cop</Filter>
+    </ClInclude>
+    <ClInclude Include="CopWin2.h">
+      <Filter>States\GameStates</Filter>
+    </ClInclude>
+    <ClInclude Include="RandomLevelGenerator.h">
+      <Filter>States\Data</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="WinMain.cpp" />
+    <ClCompile Include="CharacterFall.cpp">
+      <Filter>States\C1_Thief</Filter>
+    </ClCompile>
+    <ClCompile Include="CharacterIdle.cpp">
+      <Filter>States\C1_Thief</Filter>
+    </ClCompile>
+    <ClCompile Include="CharacterJump.cpp">
+      <Filter>States\C1_Thief</Filter>
+    </ClCompile>
+    <ClCompile Include="CharacterState.cpp">
+      <Filter>States\C1_Thief</Filter>
+    </ClCompile>
+    <ClCompile Include="CharacterWalk.cpp">
+      <Filter>States\C1_Thief</Filter>
+    </ClCompile>
+    <ClCompile Include="BaseState.cpp">
+      <Filter>States\Data</Filter>
+    </ClCompile>
+    <ClCompile Include="Character.cpp">
+      <Filter>States\C1_Thief</Filter>
+    </ClCompile>
+    <ClCompile Include="Character2.cpp">
+      <Filter>States\C2_Cop</Filter>
+    </ClCompile>
+    <ClCompile Include="CharacterFall2.cpp">
+      <Filter>States\C2_Cop</Filter>
+    </ClCompile>
+    <ClCompile Include="CharacterIdle2.cpp">
+      <Filter>States\C2_Cop</Filter>
+    </ClCompile>
+    <ClCompile Include="CharacterJump2.cpp">
+      <Filter>States\C2_Cop</Filter>
+    </ClCompile>
+    <ClCompile Include="CharacterState2.cpp">
+      <Filter>States\C2_Cop</Filter>
+    </ClCompile>
+    <ClCompile Include="CharacterWalk2.cpp">
+      <Filter>States\C2_Cop</Filter>
+    </ClCompile>
+    <ClCompile Include="counter.cpp">
+      <Filter>States\Data</Filter>
+    </ClCompile>
+    <ClCompile Include="Map.cpp">
+      <Filter>States\Data</Filter>
+    </ClCompile>
+    <ClCompile Include="Tile.cpp">
+      <Filter>States\Data</Filter>
+    </ClCompile>
+    <ClCompile Include="FrontendState.cpp">
+      <Filter>States\GameStates</Filter>
+    </ClCompile>
+    <ClCompile Include="GameContext.cpp">
+      <Filter>States\GameStates</Filter>
+    </ClCompile>
+    <ClCompile Include="GameplayState.cpp">
+      <Filter>States\GameStates</Filter>
+    </ClCompile>
+    <ClCompile Include="CopLose.cpp">
+      <Filter>States\GameStates</Filter>
+    </ClCompile>
+    <ClCompile Include="CopWin.cpp">
+      <Filter>States\GameStates</Filter>
+    </ClCompile>
+    <ClCompile Include="Character3.cpp">
+      <Filter>States\C3_Cop</Filter>
+    </ClCompile>
+    <ClCompile Include="CharacterFall3.cpp">
+      <Filter>States\C3_Cop</Filter>
+    </ClCompile>
+    <ClCompile Include="CharacterIdle3.cpp">
+      <Filter>States\C3_Cop</Filter>
+    </ClCompile>
+    <ClCompile Include="CharacterJump3.cpp">
+      <Filter>States\C3_Cop</Filter>
+    </ClCompile>
+    <ClCompile Include="CharacterState3.cpp">
+      <Filter>States\C3_Cop</Filter>
+    </ClCompile>
+    <ClCompile Include="CharacterWalk3.cpp">
+      <Filter>States\C3_Cop</Filter>
+    </ClCompile>
+    <ClCompile Include="CopWin2.cpp">
+      <Filter>States\GameStates</Filter>
+    </ClCompile>
+    <ClCompile Include="RandomLevelGenerator.cpp">
+      <Filter>States\Data</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="level01.txt">
+      <Filter>Map</Filter>
+    </Text>
+    <Text Include="texturepack01.txt">
+      <Filter>Map</Filter>
+    </Text>
+    <Text Include="RandomLevelGenerator.txt">
+      <Filter>Map</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="States">
+      <UniqueIdentifier>{b4707822-3aae-4ac4-91fb-b1b4dfc060d2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="States\GameStates">
+      <UniqueIdentifier>{6d98f79e-7389-4c21-9648-43d10b64f97e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="States\C2_Cop">
+      <UniqueIdentifier>{8705e505-7b02-4ef0-bdba-75f8b46ad9de}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="States\C1_Thief">
+      <UniqueIdentifier>{11cd91eb-828f-4aa2-a419-35bcce355b00}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="States\Data">
+      <UniqueIdentifier>{ff15837d-389c-4af2-928b-860c445e7fcf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="States\C3_Cop">
+      <UniqueIdentifier>{f0b1517f-5691-44a2-81c6-ee2a02825dc1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Map">
+      <UniqueIdentifier>{2e7668ed-1238-40e4-9bb6-b74df766848c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="sge.ini">
+      <Filter>States\Data</Filter>
+    </None>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SGE", "SGE\SGE.vcxproj", "{34282BBF-80BD-40A9-8B00-4B6955B5D24A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "JefferyGame", "HelloAnimation\HelloAnimation.vcxproj", "{265E1D0F-82AD-4F27-A4EA-D9EA26590F8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34282BBF-80BD-40A9-8B00-4B6955B5D24A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{34282BBF-80BD-40A9-8B00-4B6955B5D24A}.Debug|Win32.Build.0 = Debug|Win32
+		{34282BBF-80BD-40A9-8B00-4B6955B5D24A}.Release|Win32.ActiveCfg = Release|Win32
+		{34282BBF-80BD-40A9-8B00-4B6955B5D24A}.Release|Win32.Build.0 = Release|Win32
+		{265E1D0F-82AD-4F27-A4EA-D9EA26590F8F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{265E1D0F-82AD-4F27-A4EA-D9EA26590F8F}.Debug|Win32.Build.0 = Debug|Win32
+		{265E1D0F-82AD-4F27-A4EA-D9EA26590F8F}.Release|Win32.ActiveCfg = Release|Win32
+		{265E1D0F-82AD-4F27-A4EA-D9EA26590F8F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

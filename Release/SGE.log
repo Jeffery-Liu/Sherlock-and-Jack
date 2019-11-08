@@ -1,0 +1,43 @@
+﻿  FMODBridge.cpp
+  Sound.cpp
+  Application.cpp
+  Log.cpp
+  Timer.cpp
+  DXGraphics.cpp
+  Font.cpp
+  PostProcess.cpp
+  RenderSurface.cpp
+  Shader.cpp
+  Sprite.cpp
+  SpriteRenderer.cpp
+  Texture.cpp
+  WireFrame.cpp
+  DXInput.cpp
+  IniFile.cpp
+  SplashScreen.cpp
+  Resource.cpp
+  ResourceManager.cpp
+  SGE_Input.cpp
+  Compiling...
+  SGE_Physics.cpp
+  Debug.cpp
+  SGE.cpp
+  SGE_Audio.cpp
+  SGE_Graphics.cpp
+SGE_Graphics.cpp(248): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+SGE_Graphics.cpp(257): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  SGE_Math.cpp
+SGE_Math.cpp(71): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+SGE_Math.cpp(122): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+SGE_Math.cpp(122): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+SGE_Math.cpp(123): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+SGE_Math.cpp(123): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+SGE_Math.cpp(257): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+SGE_Math.cpp(257): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+SGE_Math.cpp(258): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+SGE_Math.cpp(258): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+SGE_Math.cpp(582): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  SGE_UI.cpp
+  SGE.vcxproj -> C:\Users\0341873\Desktop\JinfengLiu_0341873_CC452\SherlockAndJack\Jeffery_Game\Release\SGE.lib
+  C:\Users\0341873\Desktop\JinfengLiu_0341873_CC452\SherlockAndJack\Jeffery_Game\SGE\External\Lib\FMOD\fmodex.dll
+  1 File(s) copied

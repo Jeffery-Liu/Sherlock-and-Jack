@@ -1,0 +1,235 @@
+Columns: 40
+Rows: 25
+TileSize: 32
+TileCount: 34
+
+TileDefinition
+Type: 0
+Collision: 1
+MovementCost: 0
+Damage: 0
+
+TileDefinition
+Type: 1
+Collision: 0
+MovementCost: 0
+Damage: 0
+
+TileDefinition
+Type: 2
+Collision: 0
+MovementCost: 1
+Damage: 0
+
+TileDefinition
+Type: 3
+Collision: 0
+MovementCost: 2
+Damage: 0
+
+TileDefinition
+Type: 4
+Collision: 0
+MovementCost: 3
+Damage: 0
+
+TileDefinition
+Type: 5
+Collision: 1
+MovementCost: 0
+Damage: 0
+
+TileDefinition
+Type: 6
+Collision: 1
+MovementCost: 0
+Damage: 0
+
+TileDefinition
+Type: 7
+Collision: 1
+MovementCost: 0
+Damage: 0
+
+TileDefinition
+Type: 8
+Collision: 1
+MovementCost: 0
+Damage: 0
+
+TileDefinition
+Type: 9
+Collision: 1
+MovementCost: 0
+Damage: 0
+
+TileDefinition
+Type: 10
+Collision: 1
+MovementCost: 0
+Damage: 0
+
+TileDefinition
+Type: 11
+Collision: 1
+MovementCost: 0
+Damage: 0
+
+TileDefinition
+Type: 12
+Collision: 0
+MovementCost: 0
+Damage: 0
+
+TileDefinition
+Type: 13
+Collision: 1
+MovementCost: 0
+Damage: 0
+
+TileDefinition
+Type: 14
+Collision: 1
+MovementCost: 0
+Damage: 0
+
+TileDefinition
+Type: 15
+Collision: 1
+MovementCost: 0
+Damage: 0
+
+TileDefinition
+Type: 16
+Collision: 1
+MovementCost: 0
+Damage: 0
+
+TileDefinition
+Type: 17
+Collision: 1
+MovementCost: 0
+Damage: 0
+
+TileDefinition
+Type: 18
+Collision: 0
+MovementCost: 0
+Damage: 0
+
+TileDefinition
+Type: 19
+Collision: 1
+MovementCost: 0
+Damage: 0
+
+TileDefinition
+Type: 20
+Collision: 1
+MovementCost: 0
+Damage: 0
+
+TileDefinition
+Type: 21
+Collision: 0
+MovementCost: 0
+Damage: 0
+
+TileDefinition
+Type: 22
+Collision: 1
+MovementCost: 0
+Damage: 0
+
+TileDefinition
+Type: 23
+Collision: 1
+MovementCost: 0
+Damage: 0
+
+TileDefinition
+Type: 24
+Collision: 1
+MovementCost: 0
+Damage: 0
+
+TileDefinition
+Type: 25
+Collision: 0
+MovementCost: 0
+Damage: 0
+
+TileDefinition
+Type: 26
+Collision: 0
+MovementCost: 0
+Damage: 0
+
+TileDefinition
+Type: 27
+Collision: 1
+MovementCost: 0
+Damage: 0
+
+TileDefinition
+Type: 28
+Collision: 1
+MovementCost: 0
+Damage: 0
+
+TileDefinition
+Type: 29
+Collision: 1
+MovementCost: 0
+Damage: 0
+
+TileDefinition
+Type: 30
+Collision: 1
+MovementCost: 0
+Damage: 0
+
+TileDefinition
+Type: 31
+Collision: 0
+MovementCost: 5
+Damage: 0
+
+TileDefinition
+Type: 32
+Collision: 0
+MovementCost: 0
+Damage: 0
+
+TileDefinition
+Type: 33
+Collision: 0
+MovementCost: 0
+Damage: 0
+
+Map
+00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+00,05,06,06,06,07,29,33,02,20,01,03,20,02,01,01,01,20,03,20,20,20,02,03,01,02,20,02,03,03,04,04,01,20,02,02,03,03,01,00
+00,08,26,26,26,10,29,33,20,04,01,03,04,04,01,04,01,20,04,02,04,03,04,33,33,33,33,33,33,33,33,20,03,03,03,01,03,03,20,00
+00,08,26,26,26,10,29,33,02,02,20,03,20,20,01,04,02,20,20,04,20,03,02,33,14,15,14,15,14,15,33,03,33,33,33,33,33,33,33,00
+00,08,26,26,26,10,29,33,20,04,20,04,03,20,33,33,33,33,33,20,20,04,04,33,16,17,16,17,16,17,33,03,33,05,06,06,06,07,33,00
+00,11,13,12,11,13,27,33,04,01,04,03,20,01,33,05,06,07,33,03,04,04,03,33,18,19,19,19,19,18,27,20,33,08,26,26,26,10,33,00
+00,28,28,33,28,28,03,33,04,03,01,03,04,04,33,08,26,10,33,02,04,02,03,33,33,33,33,33,33,33,33,02,33,08,26,09,26,10,33,00
+00,33,33,33,33,33,33,01,03,03,20,02,04,04,33,11,12,13,33,33,33,33,33,33,33,33,33,02,01,01,03,04,33,08,26,26,26,10,33,00
+00,20,04,03,01,03,20,01,20,20,04,01,02,03,33,33,33,33,33,33,14,15,14,15,14,15,33,01,03,04,20,04,33,11,13,12,11,13,33,00
+00,04,02,20,20,02,01,01,20,04,03,20,01,03,20,02,04,02,01,33,16,17,16,17,16,17,33,03,04,04,02,02,33,33,33,33,33,33,27,00
+00,01,04,03,01,01,20,01,01,01,01,20,20,20,20,04,04,02,03,33,18,19,19,19,19,18,27,04,04,04,02,02,01,33,33,33,33,33,20,00
+00,04,03,04,01,03,33,33,33,33,33,02,03,04,03,02,20,01,01,33,33,33,33,33,33,33,33,03,01,04,03,01,04,33,05,06,07,33,20,00
+00,20,01,01,04,20,33,05,06,07,33,20,02,04,02,03,20,04,04,02,03,02,01,02,33,33,33,33,33,33,33,02,03,33,08,26,10,33,20,00
+00,02,03,02,04,01,33,08,26,10,33,04,01,01,20,03,02,01,03,02,01,01,02,02,33,05,06,06,06,07,33,01,04,33,11,12,13,33,01,00
+00,20,01,01,03,01,33,11,12,13,33,04,20,02,02,03,03,03,02,01,03,02,01,01,33,08,26,26,26,10,33,04,02,33,33,33,33,33,03,00
+00,04,20,04,04,04,33,33,33,33,33,03,01,33,33,33,33,33,01,02,01,02,20,01,33,08,26,09,26,10,33,03,04,03,01,04,01,01,02,00
+00,20,03,02,04,20,03,04,01,20,02,01,04,33,05,06,07,33,20,02,04,01,02,20,33,08,26,26,26,10,33,03,01,01,02,20,01,01,04,00
+00,20,04,02,02,03,03,01,02,04,03,02,01,33,08,26,10,33,04,03,03,20,02,03,33,11,13,12,11,13,33,03,20,01,02,20,20,20,03,00
+00,03,03,20,01,02,03,20,20,20,04,02,04,33,11,12,13,33,04,01,04,02,04,20,33,33,33,33,33,33,27,20,04,04,33,33,33,33,33,00
+00,04,20,03,02,03,01,04,20,01,01,03,20,33,33,33,33,33,01,02,20,33,33,33,33,33,01,04,02,04,03,03,04,33,20,20,20,33,20,00
+00,02,20,03,03,03,20,20,04,01,01,04,20,01,03,04,02,20,20,04,02,33,05,06,07,33,04,04,01,20,03,02,01,33,20,22,22,25,22,022
+00,01,03,03,03,01,01,03,03,02,02,20,04,04,04,02,20,02,02,02,20,33,08,26,10,33,20,02,20,03,02,01,02,33,20,22,22,25,22,022
+00,02,03,02,02,02,01,20,03,04,03,20,04,02,02,04,02,20,20,20,03,33,11,12,13,33,03,03,20,20,01,01,20,33,33,25,25,26,23,022
+00,01,20,20,02,03,04,01,04,04,01,04,04,04,01,04,02,01,02,04,01,33,33,33,33,33,04,20,03,03,01,04,02,33,20,22,22,22,22,022
+00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,022,024,022,022,022

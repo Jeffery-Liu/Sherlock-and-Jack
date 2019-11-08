@@ -1,0 +1,24 @@
+1. Final TEST about:  Input_IsKeyDown AND Input_IsKeyPressed 
+
+
+
+
+
+2. Add movement cost.
+
+
+
+
+
+3.	Thief Ability
+
+
+
+
+
+4. Sounds. (random from 2 sounds or more.) bgMusic
+
+
+
+
+5. Title page. (stretch)
