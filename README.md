@@ -1,4 +1,7 @@
-# Sherlock-and-Jack
+# Sherlock-and-Jack (2015)
+PC Game 
+Language: C++
+IDE & Engine: Visual Studio, custom engine (SGE).
 
 # Prerequisites:
 Microsoft DirectX SDK (June 2010)
@@ -36,6 +39,15 @@ Microsoft DirectX SDK (June 2010)
 
 # About Sherlock & Jack:
 Sherlock & Jack uses SGE game engine which is provided by The Art Institute of Vancouver and created by Peter Chan and modified by Cam McRae and Jinfeng Liu. The textures and sounds used in the game are downloaded from google.com.
+
+### Responsibilities
+* Designed and implemented the UI and game state system.
+* Designed and implemented multiple characters with different abilities.
+* Created a random level generator.
+* Implemented animation for characters, and added BGM for the game.
+
+### What I created: 
+Almost everything under "JefferyGame" project.
 
 ## Contributors:
 - Professor: Peter Chan
