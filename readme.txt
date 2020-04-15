@@ -80,4 +80,4 @@ John:
 	Cooldown: 1s.
 
 About Sherlock & Jack:
-Sherlock & Jack uses SGE game engine which is provided by The Art Institute of Vancouver and created by Peter Chan and modified by Cam McRae and Jinfeng Liu. The textures and sounds used in the game are downloaded from google.com.
+Sherlock & Jack uses SGE game engine which is provided by The Art Institute of Vancouver and created by Peter Chan and modified by Cam McRae and Jinfeng Liu. The textures and sounds used in the game are downloaded from the internet.
