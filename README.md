@@ -1,7 +1,7 @@
 # Sherlock-and-Jack (2015)
-PC Game 
-Language: C++
-IDE & Engine: Visual Studio, custom engine (SGE).
+- PC Game 
+- Language: C++
+- IDE & Engine: Visual Studio, custom engine (SGE).
 
 # Prerequisites:
 Microsoft DirectX SDK (June 2010)
